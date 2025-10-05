@@ -4,9 +4,6 @@
 <p align="center">
   A deep learning project to classify skin lesions and detect potential skin cancer using Convolutional Neural Networks (CNNs) and Transfer Learning.
   <br />
-  <a href="https://github.com/ppbeast18/skincancer/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/ppbeast18/skincancer/issues">Request Feature</a>
 </p>
 
 ---
